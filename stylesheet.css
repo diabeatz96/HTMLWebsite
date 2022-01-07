@@ -1,0 +1,42 @@
+<!-- Element Selectors -->
+
+header {
+    background-color: #402722;
+    max-width: 700px;
+    height: 200px;
+}
+
+nav {
+    background-color: #402722;
+    margin: 30px;
+    align-items: center;
+}
+
+header a {
+    padding: 30px;
+    margin: 30px;
+    border: solid;
+    color: #F2E7AE;
+
+}
+
+header a:hover {
+    color: #F2AC29;
+}
+body {
+    background-color: #D97A43;
+    max-width: 700px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: #402722;
+    max-width: 700px;
+    margin: auto;
+}
+
+html {
+    background-image: url("https://sm.ign.com/ign_nordic/gallery/d/disco-elys/disco-elysium-19-pieces-of-concept-art_9eat.jpg");
+}
